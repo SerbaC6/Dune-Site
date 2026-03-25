@@ -41,17 +41,6 @@ To understand Dune is to understand its environment. It is a world engineered by
 
 ---
 
-### Key Figures
-
-| Name | Faction | Role |
-| :--- | :--- | :--- |
-| **Paul Atreides** | House Atreides | The Ducal Heir / Muad'Dib |
-| **Lady Jessica** | Bene Gesserit | Concubine to the Duke, Reverend Mother |
-| **Baron Vladimir** | House Harkonnen | Architect of the Atreides' destruction |
-| **Stilgar** | Fremen | Naib of Sietch Tabr |
-
----
-
 <div align="center">
   <p><strong>A R R A K I S &nbsp; A W A I T S</strong></p>
 </div>
