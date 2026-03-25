@@ -1,3 +1,13 @@
+<style>
+  body {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6pINS81qoxTZ1qdDsCmn0iMp6O99_cFUhpA&s');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: #ffffff;
+  }
+</style>  
+
 <div align="center">
   <h1>🏜️ D U N E</h1>
   <p><em>"I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration."</em></p>
