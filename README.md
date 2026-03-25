@@ -1,6 +1,6 @@
 <style>
   body {
-    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6pINS81qoxTZ1qdDsCmn0iMp6O99_cFUhpA&s');
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV6IRKXkpySEneNEDFeZ40rxrVSLxhv7vNwqLxIrRy_C6d0YIt2c7OhpQ&s');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
