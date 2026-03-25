@@ -44,5 +44,4 @@ To understand Dune is to understand its environment. It is a world engineered by
 
 <div align="center">
   <p><strong>A R R A K I S &nbsp; A W A I T S</strong></p>
-  <p><em>Created for GitHub Pages</em></p>
 </div>
